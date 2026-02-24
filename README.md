@@ -13,6 +13,14 @@ El objetivo es detectar oportunidades de mejora en eficiencia operativa y experi
 
 ---
 
+## 📓 Notebook de análisis
+
+El análisis completo se encuentra documentado en el notebook:
+
+➡️ [analisis-atencion-clientes](analisis-atencion-clientes.ipynb)
+
+---
+
 ## 🏢 Problema de Negocio
 
 En entornos de atención multicanal, las organizaciones enfrentan:
@@ -93,6 +101,7 @@ El análisis incluye visualizaciones clave para facilitar la interpretación de:
 ---
 
 
-## 📌 Autor
+## 📬 Contacto
+📌 **LinkedIn: [LinkedIn – Karla María González](https://www.linkedin.com/in/karla-maria-gonzalez-estrada-a07b44285/)**
 
-Proyecto desarrollado como parte de la construcción de portafolio en análisis de datos.
+📌 **Correo: karlaestrada1434@gmail.com**
