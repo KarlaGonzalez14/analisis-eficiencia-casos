@@ -1,10 +1,15 @@
 # 📊 Análisis de Eficiencia en la Resolución de Casos
 
+
 <img width="2287" height="1282" alt="Captura de pantalla 2026-03-18 202103" src="https://github.com/user-attachments/assets/69764174-2ebf-4986-b1c9-09cc98ed6f74" />
+
+En entornos de atención al cliente multicanal, la eficiencia operativa impacta directamente en la experiencia del cliente y en los costos del servicio.  
+Este proyecto analiza el desempeño del proceso de atención de casos con el objetivo de identificar oportunidades de mejora basadas en datos.
+
 
 ## 🧠 Objetivo
 
-Analizar el desempeño operativo del proceso de atención de casos para identificar:
+Evaluar el desempeño operativo para identificar:
 
 - Factores asociados a cancelaciones  
 - Tipos de casos con mayor tendencia a escalar  
@@ -107,5 +112,6 @@ El análisis incluye visualizaciones clave para facilitar la interpretación de:
 
 ## 📬 Contacto
 📌 **LinkedIn: [LinkedIn – Karla María González](https://www.linkedin.com/in/karla-maria-gonzalez-estrada-a07b44285/)**
+
 
 📌 **Correo: karlaestrada1434@gmail.com**
