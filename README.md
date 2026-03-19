@@ -1,5 +1,7 @@
 # 📊 Análisis de Eficiencia en la Resolución de Casos
 
+<img width="2287" height="1282" alt="Captura de pantalla 2026-03-18 202103" src="https://github.com/user-attachments/assets/69764174-2ebf-4986-b1c9-09cc98ed6f74" />
+
 ## 🧠 Objetivo
 
 Analizar el desempeño operativo del proceso de atención de casos para identificar:
@@ -18,6 +20,8 @@ El objetivo es detectar oportunidades de mejora en eficiencia operativa y experi
 El análisis completo se encuentra documentado en el notebook:
 
 ➡️ [analisis-atencion-clientes](analisis-atencion-clientes.ipynb)
+
+➡️ [dashboard analisis-atencion-clientes](eficiencia_atc.pbix)
 
 ---
 
